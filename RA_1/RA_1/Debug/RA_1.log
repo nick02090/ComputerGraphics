@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Nikola\source\repos\RA_1\RA_1\Main.cpp(100,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nikola\source\repos\RA_1\RA_1\Main.cpp(285,11): warning C4018: '>=': signed/unsigned mismatch
+  RA_1.vcxproj -> C:\Users\Nikola\source\repos\RA_1\Debug\RA_1.exe
